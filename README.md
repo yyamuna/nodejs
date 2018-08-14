@@ -1,2 +1,2 @@
 # nodejs
-node and mongodb
+nodejs and mongodb
